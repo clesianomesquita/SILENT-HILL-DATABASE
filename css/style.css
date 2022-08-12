@@ -1,0 +1,19 @@
+a:link{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    text-decoration: none;
+    color: red;
+}
+
+#link-index {
+    text-decoration: none;
+    color: white;
+    background-color: gray;
+    padding: 10px;
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+}

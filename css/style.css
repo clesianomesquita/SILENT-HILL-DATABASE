@@ -18,3 +18,31 @@ a:hover{
     bottom: 10px;
 }
 
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#menu-inicial {
+    max-width: 800px;
+    max-height: 45px;
+    list-style: none;
+    padding: 0;
+    background-color: black;
+}
+
+#menu-inicial li {
+    display: inline;
+}
+
+#menu-inicial li a{
+    color: white;
+    padding: 2px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+#menu-inicial li a:hover{
+    background-color: red;
+}

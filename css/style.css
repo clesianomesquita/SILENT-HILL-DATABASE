@@ -25,7 +25,8 @@ a:hover{
 }
 
 #menu-inicial {
-   
+    max-width: 800px;
+    max-height: 45px;
     list-style: none;
     padding: 0;
     background-color: black;

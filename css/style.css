@@ -55,8 +55,8 @@ a:hover{
 }
 
 @media screen and (max-width: 600px) {
-    ul li {
-        width: 100%;
+    ul li a {
+        width: 10px;
         
     }
 }

@@ -1,3 +1,7 @@
+BODY {
+    background-color: rgb(rgb(22, 21, 21), rgb(0, 0, 0), rgb(33, 33, 34));
+}
+
 a:link{
     text-decoration: none;
     color: white;
@@ -45,4 +49,26 @@ a:hover{
 
 #menu-inicial li a:hover{
     background-color: red;
+}
+
+#sh2-armas {
+    margin-left: 10px;
+}
+
+#moto-serrash2 {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+#madeirash2 {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+#pistolash2 {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
 }
